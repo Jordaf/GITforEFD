@@ -38,6 +38,30 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: BG
+    uniqueID: 1155979743
+    locked: 0
+  - name: BG 2
+    uniqueID: 98503847
+    locked: 0
+  - name: BG 3
+    uniqueID: 2307026523
+    locked: 0
+  - name: BG 4
+    uniqueID: 2884223695
+    locked: 0
+  - name: BG 5
+    uniqueID: 1981981159
+    locked: 0
+  - name: BG 6
+    uniqueID: 3541683345
+    locked: 0
+  - name: BG 7
+    uniqueID: 317068127
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Crate
+    uniqueID: 1647691797
     locked: 0
